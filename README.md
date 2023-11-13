@@ -26,5 +26,5 @@ Elysium is a personalized Twitch resources recommendation engine. Users can sear
 * [Create-react-app docs](https://facebook.github.io/create-react-app/docs/getting-started)
 * [Twitch API docs](https://dev.twitch.tv/docs/api/)
 
-<br><em>Juessica</em>
+<br><em>Jessica</em>
 <br><br>December 27, 2021
